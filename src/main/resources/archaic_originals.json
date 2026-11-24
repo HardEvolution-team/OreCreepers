@@ -1,0 +1,19 @@
+{
+  "_comment": "Where ArchaicLib downloads the original files of this port from. Edit freely; set locked=true to keep your edits when the mod updates. Files go to archaic_originals/ and are checked by sha256.",
+  "port": "orecreepers",
+  "version": 3,
+  "locked": false,
+  "files": [
+    {
+      "file": "orecreepers1.7.10_v.1.jar",
+      "name": "orecreepers1.7.10_v.1.jar (Ore Creepers by shinymew, 1.7.10)",
+      "sha256": "5be14471da1cdf0371304464f384690c858e4c3052f54e863d883a1cf963b6bf",
+      "size": 47762,
+      "page": "https://www.9minecraft.net/?p=77096",
+      "mirrors": [
+        "scrape:https://dl4.9minecraft.net/index.php?act=dl&id=1418305205 https://[a-z0-9.]+/index\\.php\\?act=download&(?:amp;)?id=1418305205&(?:amp;)?hash=[a-f0-9]+",
+        "scrape:https://dl4.mc-mod.net/index.php?act=dl&id=1418305205 https://[a-z0-9.]+/index\\.php\\?act=download&(?:amp;)?id=1418305205&(?:amp;)?hash=[a-f0-9]+"
+      ]
+    }
+  ]
+}
